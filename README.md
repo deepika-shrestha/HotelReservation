@@ -6,7 +6,12 @@ Very basic java application for Hotel Reservation.
 Java program that interacts with the users to add and review hotel reservation stored with the first name, last name, number of night stayed and daily rate for the hotel reservation.
 
 ### Running the application
-
+#### NetBeans Instructions
+--------------------
+ * Right-click on project
+    * Run As > Java Application
+    * If asked, type "" and click OK
+    
 ### Sample output
 Reservation Calculation System Startup
 
