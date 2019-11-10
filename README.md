@@ -8,9 +8,9 @@ Java program that interacts with the users to add and review hotel reservation s
 ### Running the application
 #### NetBeans Instructions
 --------------------
+ * git clone and Import the project
  * Right-click on project
-    * Run As > Java Application
-    * If asked, type "" and click OK
+    * Run
     
 ### Sample output
 Reservation Calculation System Startup
